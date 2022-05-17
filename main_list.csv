@@ -1,0 +1,953 @@
+svenska,engelska
+""" ""-aktiga",""" ""-like"
+affär,shop
+akterdäck,aft deck
+alldeles,"just about, right"
+allmänt,generally
+allvarlig,serious
+ämne,subject
+ändå,"even so, nevertheless"
+ängsligt,anxious
+aning,idea
+annars,otherwise
+annat,"other, otherwise"
+annorlunda,different (unusual)
+ansikte,face
+antal,quantity
+antingen,either
+äntligen,"finally, at last"
+ärlig,honest
+åsikt,opinion
+åsyn,sight (eg. At the sight of something)
+åter,once more
+återigen,again
+åtminstone,"at least, leastwise"
+att åka skidor,to go skiing
+att ana,to have a feeling
+att ange,"to state, indicate"
+att ankra,to anchor
+att anlända,to arrive
+att anmäla,"to announce, to notify"
+att anmärka,to remark
+att ansöka,to apply (for a job)
+att anta,"to assume, to suppose, to adopt"
+att antyda,"to hint, to imply"
+att använda,to use
+att åtala,to prosecute
+att återskapa,to recreate
+att avbilda,to depict
+att avbryta,"to cancel, to interrupt"
+att avslöja,to reveal
+att avsluta,to finish
+att avstå,"to abstain, to give up"
+att befinna sig,to be located at
+att beklaga,to regret
+att belställa,to order
+att belysa,to illuminate
+att berätta,to tell
+att bero,"to depend, be dependant"
+att besöka,to visit
+att betrakta,to observe
+att betyda,"to mean, signify"
+att bilda,to form
+att bjuda,to invite
+att blicka,to gaze
+att blir,to become
+att börja,to begin
+att breda,to spread
+att brinna,to burn
+att bromsa,to brake
+att bruka,to use to / to cultivate / to employ
+att bygga,"to build, construct"
+att byta,to change
+att dämpa,"to dampen, to suppress, to subdue"
+att dimpa,"to flop, fall, tumble"
+att diskutera,to discuss
+att döma,"to sentence, to doom"
+att dröja,to be delayed
+att dröja sig kvar,to linger
+att duka,to set the table
+att dyka,to dive
+att efterträda,"to succeed (someone), to come after"
+att få,to get (receive)
+att fånga,to catch
+att fängsla,to imprison
+att fatta,"to cotton on, to grasp"
+att fira,to celebrate
+att flaxa,"to flap, flutter"
+att förbli,to remain
+att fördriva,"to expel, drive out"
+att förfölja,"to haunt, to persecute"
+att förklara,to explain
+att förlora,to lose
+att förmå,"to manage, to be able to"
+att försöka,to attempt
+att förstå,to understand
+att försvara,to defend
+att försvinna,to disappear
+att förtjäna,to deserve
+att förtöja,too moor (a boat)
+att fortsätta,to continue
+att framhärda,"to persevere, persist"
+att framträda,"to appear, stand out"
+att fungera,to function
+att glida,to slide
+att glömma,"to forget, to neglect"
+att gnola,to hum
+att godta,"too accept, to approve"
+att granska,to examine
+att grilla,"to grill, barbeque"
+att gripa,"to seize, to apprehend"
+att gunga,"to swing, rock"
+att ha bråttom,to be in a hurry
+att hålla,"to hold, keep from doing something"
+att hålla tummarna,to cross fingers (hold thumbs)
+att hamna,to end up
+att hända,to happen
+att hände,"to happen, to occur"
+att hantera,"to manage, to handle"
+att härstamma,to originate
+att hinna,to have time to
+att hoppas,to hope
+att iaktta,to observe
+att inleda,to initiate
+att innebära,"to mean, infer"
+att invända,to object
+att känna,"to feel, to know (someone)"
+att kliva,"to step, to climb (into a car)"
+att knäcka,to crack
+att koka,to boil
+att köra,to drive
+att krama,to hug
+att laga,to fix
+att lägga,"to add, to put, to place"
+att lämna,to leave
+att låna,to borrow
+att längta,"to long for, look forward to"
+att lära,to learn/teach
+att låta bli,"to help (but do something), to refrain"
+att låta bra,to sound good
+att latsås,to pretend
+att låtsas,to pretend
+att le,to smile
+att lösa,to solve / resolve
+att lukta,to smell
+att luta,"to lean, tilt"
+att måla,to paint
+att märka,to notice
+att missa,"to miss, to fail"
+att misstänka,to suspect
+att motivera,"to motivate, to warrant"
+att mullra,"to mumble, rumble, grumble"
+att närma,to approach
+att nicka,to nod
+att nudda,to touch
+att odla,to grow (a plant)
+att öka,to increase
+att önska,to wish
+att ordna,to arrange
+att orka,to manage
+att oroa,to worry
+att överskatta,to overrate
+att övertyga,to convince
+att pågå,"to go on, to proceed"
+att påverka,to affect
+att pladdra,"to prattle, to chatter"
+att planera,to plan
+att plugga,to study
+att precisera,to specify
+att prova,to try
+att pröva,to put to the test
+att pussa,to kiss
+att räcka,"to be enough, to suffice"
+att rädda,to rescue
+att raka,to shave
+att råka,"to do something unintentionally, by chance"
+att räkna,to count / to reckon
+att rätta,"to correct, rectify, adjust"
+att ro,to row
+att ropa,to shout
+att röra,to move
+att rösta,to vote
+att rusa,to dash
+att ruska,to shake
+att rycka,to twitch
+att rysa,to shudder
+att sakna,"to miss, to lack"
+att samla,to collect
+att sänka,"to lower, bring down"
+att sätta,to put
+att sippra,"to seep, trickle"
+att sjuda,to simmer
+att skaffa,to get (acquire)
+att skala,to peel (potatoes etc)
+att skapa,to create
+att skifta,"to shift, change"
+att skrocka,to chuckle
+att skumma,"to froth, skim"
+att slå,"to beat, strike"
+att slänga,to throw
+att slippa,to not have to
+att smaka,to taste
+att smalna,to narrow
+att somna,to fall asleep
+att spana,to scout
+att spara,"to save up, put aside"
+att spegla,"to reflect, mirror"
+att spola,"to rinse, to flush"
+att sprida,to diffuse
+att stå,to stand
+att städa,to clean
+att ställa,"to place, to pose"
+att stämma,"to agree with, to add up"
+att stelna,to stiffen
+att stöta,to bump
+att stötta,to support
+att stressa,"to stress, worry"
+att styra,"to steer, control"
+att sy,to sew
+att synas,"to appear, to be seen"
+att ta bort,to remove
+att tåla,to tolerate
+att tänka,to think
+att täta,to seal
+att tiga,to be quiet
+att tilkännage,to announce
+att tillbringa,to spend time
+att tillhöra,to belong to
+att tillverka,to manufacture
+att tina,to defrost
+att tjuta,to howl
+att tolka,to interpret
+att träffa,to meet
+att trösta,"to comfort, to cheer up"
+att trumma,to drum
+att trycka,to press
+att turnera,to tour
+att tvinga,"to force, compel"
+att umgås,"to socialise, to associate"
+att underhålla,to maintain / to entertain
+att undgå,to avoid
+att uppdra,to draw up
+att uppmana,to urge
+att uppmärksamma,to pay attention
+att upprepa,to repeat
+att upptäcka,"to discover, detect"
+att uttala,"to express, to pronounce"
+att vågar,to dare to
+att vägra,to refuse
+att vakna,to wake
+att välja,to choose
+att vända,to turn
+att vandra,to hike
+att verka,to seem
+att vicka,"to shake, to wiggle"
+att vila,to rest
+att viska,to whisper
+att vittna,to testify
+att vrida,to turn
+även,"including, as well"
+avundsjuk,envious
+axel,shoulder
+backspegel,rearview mirror
+badlakan,towel
+badrum,bathroom
+bakfull,hungover
+baklänges,backwards
+bakom,behind
+barnvakt,babysitter
+begänsad,limited
+begåvning,talent
+bekant,"familiar, known, noted"
+beklagande,regretfully
+berättelse,"story, narrative"
+berömd,famous
+beställning,"order, shipment"
+besviken,disappointed
+besynnerligt,"strangely, odd"
+betong,concrete
+billig,cheap
+bilverkstad,mechanics garage
+bindande,binding
+bland,among
+blänkande,glistening
+blåsväder,windy weather
+blick,glance
+boasering,panneling
+bolag,company
+bomull,cotton
+borta,away
+bortvänd,facing away
+bostadsområde,community center
+brandskada,burn (to skin)
+brant,steep
+bredvid,beside
+brett,"widely, broadly"
+bricka,tray
+brist,"lack, shortage"
+brott,crime
+brysselkål,brussel sprouts
+busshållplats,bus stop
+då,"at that time, when"
+damm,dust
+däremot,however
+därför,because
+därifrån,thence
+däruppe,"up there, upstairs"
+del,"part, portion"
+dimma,fog
+dis,haze
+doft,scent
+dov,"muffled, aching"
+drivande,"floating, driving"
+duktig,"good, clever, capable"
+dumheter,nonsense
+duva,dove
+dyster,"gloomy, dismal"
+efteråt,afterwards
+eftersom,since
+egen,own
+egentligen,actually
+emot,"opposite, against"
+enastående,outstanding
+enda,only
+enfarenhet,experience
+enkelt,"simple, easy"
+enligt,according to
+ens,even
+fackförening,trade union
+fängelse,prison
+färdig,finished
+farlig,dangerous
+färsk,fresh
+fäste,"bracket, attachment"
+fåtal,few
+fläskig,fleshy
+flesta,most
+flinga,"flake, cereal"
+flitig,diligent
+föraning,foreboding
+förbi,"past, by"
+förbud,ban
+föreläsning,lecture
+förening,association
+förkyld,has a cold
+formad,shaped
+förmåga,ability
+förmodligen,probably
+förresten,"by the way, besides"
+försiktigt,"carefully, cautiously"
+forskare,researcher
+förstås,of course
+försvar,defense
+försvunnen,missing
+fortfarande,"still, yet"
+förut,"before, in the past"
+förutom,except
+fräckhet,audacity
+fräckt,cheeky
+framåt,forward
+framförallt,"especially, above all"
+framkomligheten,accessibility
+fredsjedom,peace
+frisk,healthy
+fritid,free time
+fruktan,fear
+fullständigt,completely
+fundament,foundation
+fyr,"lighthouse, beacon"
+galen,"crazy, mad"
+gångväg,walking distance
+ganska,quite
+garage,"garage at home, multistorey car park"
+gärna,willingly
+gata,street
+gest,gesture
+glatt,cheerfully
+glögg,mulled wine
+grann,neighbour
+grönsaker,vegetables
+grus,gravel
+haka,chin
+hållbar,sustainable
+hållplats,bus stop
+hamn,port
+handstil,handwriting
+hängig,not very well
+hård,hard
+härlig,lovely
+häromdagen,the other day
+hastigt,hastily
+hektisk,hectic
+helt enkelt,simply
+hemifrån,from home
+hemlighet,secret
+hemsida,website
+hemsk,awful
+himmel,"sky, heaven"
+hit,here
+höft,hip
+höger,right (direction)
+honung,honey
+hopsjunken,shrunken
+hörn,corner
+hosta,cough
+hov,court / hoof
+hud,skin
+hundhalsband,dog collar
+huvtröja,hoodie
+hy,skin
+i samband med,in connection with
+i själva verket,in fact
+igelkott,hedgehog
+ihop,"together, combined"
+ilska,anger
+inblandade,involved
+inbördeskrig,civil war
+inlagd,"pickled, potted"
+innan,before
+inredning,decor
+instängd,confined
+intill,next to
+isär,"apart, asunder"
+istället,instead
+iväg,"away, along"
+jämförelse,comparison
+järn,iron
+jättebra,"great, super"
+jobbigt,difficult
+ju,"of course, why"
+julbelysnig,fairy lights
+jungfruolja,virgin olive oil
+kakelsplattor,ceramic tiles
+kalkon,turkey
+källare,"basement, cellar"
+kännedom,knowledge
+känsla,feeling
+karta,map
+kind,cheek
+klämma,"clip, clamp"
+klättare,climber
+klok,wise
+knöl,tuber
+koj,bunk
+kolkraft,coal
+konstigt,weird
+konstnär,painter artist
+körkort,driver's license
+kräfta,crayfish
+kraftig,powerful
+krage,collar
+kranvatten,tap water
+kråsang,croissant
+krav,requirement
+kring,around (physically surrounding)
+kronärtskocka,artichoke
+krya på dig,get well soon
+kudde,pillow
+kunskap,knowledge
+kuvert,envelope
+läder,leather
+lag,law
+lägenhet,apartment
+långsam,"slow, lingering"
+länk,"link, chain"
+lår,thigh
+läsk,fizzy drink
+låst,locked
+lätt,easy
+läxa,homework
+ledsen,"sorry, sad"
+len,soft
+liksom,"as well as, like, somehow"
+ljudlöst,silently
+ljusstake,candlestick
+lock,"lid, cover / lock or curl of hair"
+lodjur,lynx
+luftig,airy
+lur,receiver
+mage,stomach
+mäktig,powerful
+målare,painter decorator
+mängd,"amount, quantity"
+mantel,"cloak, jacket"
+mark,"ground, land"
+medan,while
+medvetet,deliberately
+minne,memory
+mitt emot,opposite (preposition)
+mjukt,smoothly
+mode,fashion
+möjlighet,"ability, opportunity"
+möjligt,possible
+molniga,cloudy
+mörk,dark
+mössa,wooly hat
+mot,"against, towards"
+motsvarighet,"counterpart, equivalent"
+mun,mouth
+mutbrott,bribery
+myggmedel,mosquito repellant
+mysigt,cozy
+nacke,"neck, back of head"
+någon,someone
+någonstans,"somewhere, anywhere"
+någonting,"anything, something"
+naken,nude
+nära,near
+närhet,vicinity
+nästan,almost
+nät,"web, net"
+nedför,downwards
+nog,enough
+nöjd,"content, happy"
+nyfikenhet,curiosity
+nyligen,recently
+nytta,"benefit, use"
+obehag,discomfort
+odugling,good-for-nothing
+oförklarligt,inexplicable
+ökänd,infamous
+ökning,"growth, increase"
+olika,different (various)
+olycka,accident
+ombord,"on board, aboard"
+omkring,"about, around"
+område,"area, region"
+ordförande,chairperson
+orolig,worried
+oskiljaktig,inseparable
+ötack,"nasty, scary"
+ovanför,above
+övergrepp,abuse
+översättning,translation
+övrig,"other, remaining"
+par,couple (of something)
+parkeringsplats,carpark
+påse,bag
+pentryt,kitchenette
+pigg,full of energy
+pil,"arrow, dart"
+plötsligt,suddenly
+prästkrage,"priest collar, daisies"
+prat,chat
+princip,principle
+prosit,bless you
+räck,"rail, bar"
+rackarunge,scallywag
+räckhåll,"grasp, reach"
+råd,"advice, counsel"
+rädd,scared
+rakt,"straight, directly"
+raseriutbrott,tantrum
+ratt,steering wheel
+rätta,rightly
+rättslig,legal
+redan,already
+regering,government
+rejält,considerably
+rektor,headmaster
+resa,"journey, trip"
+riksdag,parliament
+riktning,direction
+roligt,fun
+rörelse,"movement, motion"
+röst,voice
+rostigt,rusty
+rulltrappa,escalator
+rumsren,housetrained
+rygg,back (spine)
+ryggsäck,rucksack
+rykte,rumour
+sådana,such
+säkert,surely
+säl,seal
+sällan,"rarely, seldom"
+salong,lounge
+samlare,collector
+samtal,"talk, call"
+sanna,true 
+särskilt,"in particular, notably"
+såsom,such as
+sätt,"way, manner"
+sedan,then
+senap,mustard
+senaste,latest
+sjuksköterska,nurse
+skakande,shaking
+skäl,reason
+skala,scale
+skämt,"joke, banter"
+skär,very small island
+skärgård,archipelago
+sken,glow
+skickliget,skill
+skiljedom,arbitration
+skock,crowd
+skugga,shadow
+skulle,would
+skylt,"sign, signpost"
+slående,strikingly
+slag,"kind, type"
+släkte,genus
+slapp,"limp, flaccid"
+smal,"narrow, slim"
+smaragd,emerald
+snabb,fast
+snygg,handsome
+söder,south
+solsken,sunshine
+solstol,deck chair
+sömnig,sleepy
+sopor,garbage
+spegel,mirror
+spridning,proliferation
+sprit,"alcohol, spirits"
+staket,fence
+ställning,position
+steg,"steps, ladder"
+stiltje,"calm, lull"
+stolta,proud
+stolthet,pride
+större,"major, bigger"
+stråle,"beam, jet"
+strålkastare,"spotlight, floodlight, headlamp"
+sträng,strict
+strax,soon
+strimmig,streaky
+ström,"stream, current"
+sund,sound / strait
+svagt,faint
+sval,cool (tempterature)
+svamp,sponge / fungus
+svärföräldrar,parents in law
+svårt,difficult
+svartsjuk,jealous
+sylt,jam
+synd,"sin, pity, shame"
+syssla,"work, chore"
+tå,toe
+tåg,train
+tak,"ceiling, roof"
+tålmodig,"patient, long-suffering"
+tändsticksask,matchbox
+tanke,thought
+tävling,"competition, contest"
+tecken,"sign, clue"
+teckning,drawing
+tillbaka,"back, backwards"
+tillfälle,"opportunity, occasion"
+tillstånd,permission
+tonsättare,composer
+torsk,cod
+trä,wood
+trädgård,garden
+trafikstörningar,traffic disruptions
+tråkigt,boring
+trappa,staircase
+trots,despite
+tröttsam,tiresome
+tung,heavy
+tunn,thin
+tunnelbana,subway
+tvärt,sharply
+tydligen,apparently
+tyg,fabric
+typ,"sort of, -ish / type"
+tyvärr,unfortunately
+uggla,owl
+undan,"away, out of the way"
+under,during
+undrande,wondering
+ung,young
+ungdom,"adolescent, youth"
+ungefär,approximately
+uppfart,driveway
+upphetsat,excitedly
+uppretad,enraged
+uppsägning,"redundancy, termination"
+upptagen,"taken, unavailable"
+upptagit,busy currently
+utanför,outside
+utåt,outwards
+utgåva,edition
+utkant,"outskirts, edge"
+utredning,investigation
+utstyrsel,outfit
+vadå,what
+våg,weighing scales
+väga,wall
+vagn,carriage (of a train)
+våld,violence
+valp,puppy
+valseger,victory
+vandrarhem,hostel
+vanliga,usual
+vänster,left (direction)
+vapen,weapon(s)
+varandra,each other
+varav,of which
+varje,"each, every"
+varken,neither
+väska,bag
+våt,wet
+vattenslang,hose
+verkligen,"indeed, really"
+verkställande,executive
+vidare,further
+vilande,"dormant, resting"
+vilja,"will, volition"
+vindruta,windscreen
+viss,"certain, assured"
+vuxen,"adult, grown up"
+yta,surface
+ytterligare,"further, additional"
+ytterst,exceedingly
+läskig,scary
+att gräva,to dig
+grävling,badger
+att klippa sig,to get a haircut
+fösenat,delayed
+förrätt,starter course
+huvudrätt,main course
+efterrätt,dessert
+häxa,witch
+röd dag,bank holiday
+att kära,to be in love
+att beskriva,to describe
+snuvig,sniffly
+självsäker,confident
+överväldigad,overwhelmed
+friluftsbutik,outdoor gear shop
+låda,box
+bokhylla,bookshelf
+mögel,"mould, fungus"
+obegripligt,incomprehensible
+låg,low
+glänta,glade
+tät,dense
+tuva,tuft
+fjäril,butterfly
+humla,bumblebee
+att tveka,to hesitate
+att peta av,to pick off
+genans,embarrassment
+omedelbart,immediately
+gudinna,goddess
+att darra,to tremble
+att gömma,to hide
+ivriga,eager
+ömtåligt,fragile
+svullen,swollen
+att slicka,to lick
+att putta,to push
+att sträcka på sig,to stretch (your body)
+slarvig,careless
+fästing,tick (parasite)
+ambassad,embassy
+skinka,ham
+slickepott,spatula
+foppatofflor,crocs
+att vifta,to wave
+avfärdande,dismissively
+kastrull,saucepan
+märkligt,strange
+fuktigt,moist
+att svabba,to mop
+anledning,reason
+knottrig,lumpy
+skrov,hull
+dämpat,subdued
+att knarra,to creak
+att återvanda,to return
+vik,bay
+att vinka,to wave
+grumligt,"muddy, cloudy"
+stripigt,straggly
+att kvida,to whimper
+andedräkt,breath
+att utstråla,to radiate
+att blåsa ut,to blow out
+att jämra,to moan
+att kväva,"to choke, suffocate"
+redskapslåda,toolbox
+osäkert,uncertain
+invånare,"resident, inhabitant"
+otänkbart,unthinkable
+att sakta,to slow down
+båtshake,boot hook
+utmattad,exhausted
+panna,forehead
+att grimasera,to grimace
+smärta,pain
+förtvivlan,despair
+snäv,narrow
+båge,arc
+att dåna,to thunder
+brygga,"jetty, wharf"
+att knaka,to crack
+svallvåg,"surge, backwash"
+flisa,splinter
+att halka,to slip
+försprång,"advantage, lead"
+obetydligt,slightly
+att flämta,to gasp
+ansvar,reponsibility
+belägen,"located, situated"
+oansenlig,inconspicuous
+välbesökt,"well attended, popular"
+trasig,broken
+högtalare,speaker
+dansgolv,dance floor
+berusad,drunk
+att tränga,to force one's way
+att svepa,"to wrap, to sweep, to knock back a shot of alcohol"
+att vingla,to wobble
+ostadig,unsteady
+otålig,impatient
+att sträcka,"to stretch, extend"
+handtag,handle
+olåst,unlocked
+gångjärn,hinge
+tröskel,threshold
+stillsam,quiet
+angränsande,adjacent
+sällskapsrum,lounge
+fartyg,ship
+genomskinlig,transparent
+musikanläggning,music system
+ruta,square
+övre,upper
+att sväva,to hover
+övernaturlig,supernatural
+evighet,eternity
+tvättlina,clothes line
+lampkrok,lamp hook
+att peka,to point
+att svälja,to swallow
+tomma,empty
+sannolikhet,probability
+blekt,bleached
+uppspärrade,suspended
+pöl,"pool, puddle"
+att dunsa,to thump
+hammarslag,hammer blow
+att hojta,to shout
+ordentlig,properly
+rotel,division
+kutryggig,round shouldered
+hägg,bird cherry tree
+syren,lilac
+att slås ut,to be knocked out
+att bekämpa,to combat
+grov,"course, rough"
+brottslighet,crime
+nivå,level
+sluttning,slope
+att kopplas,to be connected
+röstbrevlåda,voicemail
+att harkla sig,to clear ones throat
+banderoll,banner
+att bevaka,to guard
+grabb,"lad, chap"
+belastning,"load, strain"
+att påminna,to remind
+avslappnade,relaxed
+affärsman,businessman
+hästsvans,ponytail
+att slänta,to slope
+tugga,chew
+att hejda sig,to hesitate
+dröjande,"delaying, hesitating"
+häromåret,a year or so ago
+tvärsäker,absolutely sure
+ordning,"order, sequence"
+att ske,"to occur, be done, happen"
+helhet,entirety
+ansträngning,exertion
+knappast,hardly
+att brådska,to hurry
+brådskar,urgency
+att nämna,to mention
+butter,sullen
+skriftlig,written
+dragning,drawing
+smulor,crumbs
+åtgärd,"action, measure"
+att utöka,"to expand, enlarge"
+att böja,to bend
+inslagna,wrapped
+plast,plastic
+dillkvist,dill sprig
+muntert,merrily
+att gapskratta,to guffaw
+att nypa,to pinch
+underläpp,lower lip
+att skruva,"to screw, to turn"
+överens,in agreement
+skiva,disc
+stel,rigid
+tjänst,service
+att lova,to promise
+därborta,over there
+pågående,ongoing
+sammanträde,meeting
+svalka,coolness
+sedvanlig,customary
+anmälan,report
+grind,gate
+gavel,gable
+att krypa,"to crawl, creep"
+fluga,fly
+mungipor,corner of the mouth
+att avrätta,to execute
+att konstatera,to ascertain
+antagligen,presumably
+skada,injury
+halskotpelaren,the cervical spine
+uppvisning,display
+att dölja,to hide
+tvärtom,on the contrary
+att kisa,"to peer, squint"
+förräderi,treason
+sammanbitet,cohesive
+att säkra,to secure
+emballage,packaging
+skoavtryck,shoeprints
+imponerat,impressed
+rent,purely
+tambur,hallway
+att överväga,to consider
+dörröga,peephole
+ånga,vapour
+avsats,ledge
+tidsinställd,"timed, delayed-action"
+belysning,lighting
+att slockna,to switch off
+andetag,breath
+andhämtning,respiration
+glipa,gap
+drag,features
+översållad,strewn
+kilklack,wedge heel
+hertig,duke
+begravning,funeral
+att förföra,to seduce
+sällsam,strange
+bestick,cutlery
+finne,pimple
+att smeka,to caress
+att bita,to bite
+att kittla,to tickle
+försenad,delayed
+att invänta,to await
+knappt,hardly
+att påbörja,to begin
+innebandy,floorball
+övermakt,supremacy
+att torna upp sig,to pile up
+nyss,just
+hushållerska,housekeeper
+givetvis,of course
+mardröm,nightmare
+återhållsam,restrained
